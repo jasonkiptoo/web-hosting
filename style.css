@@ -1,3 +1,26 @@
 body {
-    background-color: lightblue;
+    background-color: khaki;
+  }
+
+ 
+  p{
+    text-align: center;
+    color: red;
+  }
+  h2{
+
+    text-align: center;
+    color: tomato;
+  }
+  h3{
+    color: chocolate;
+    text-align: center;
+
+  }
+  body.login-box{
+    align-items: center;
+  }
+  
+  img{
+    clip-path: circle();
   }
